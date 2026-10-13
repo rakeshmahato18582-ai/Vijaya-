@@ -1,0 +1,6 @@
+{
+  "name": "Vijaya",
+  "description": "Global skill-based real money earning gaming platform with secure instant cashout, fair-play anti-cheat engine, multi-currency wallet, and tiered loyalty rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
